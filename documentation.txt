@@ -1,0 +1,1 @@
+1. untuk update menggunakan update transaction terlebih dahulu
